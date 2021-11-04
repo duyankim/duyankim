@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Duyan, a student who has been learning programming 👨‍💻 since 2020 🚀</div>  
+### <div align="center">I'm Duyan, a newbie Java developer 🤸‍♀ since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning Spring and React  
@@ -12,7 +12,7 @@
 - 🤗 Ask me about anything  
   
 
-- ⚡ I am interested in developing FE with UX in mind  
+- ⚡ This github is about my journey as a programmer. 
   
 
 <br/>  
