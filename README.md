@@ -8,7 +8,8 @@
 
 - 🌱 Core Banking System Developer
 
-- 🚀 currently work at **Bankware Global** LINE BANK Japan project Loan Part (2021.10 ~ )
+- 🚀 currently work at **Bankware Global** 
+  - LINE BANK Japan project - Loan Part (2021.10 ~ )
 
 - 🤗 Ask me about anything 
   
