@@ -3,16 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Duyan, a newbie Java developer 🤸‍♀ since 2021 🚀</div>  
+### <div align="center">I'm Duyan, a Java developer 🤸‍♀ </div>  
   
 
-- 🌱 I’m currently learning Spring and React  
-  
+- 🌱 Core Banking System Developer
 
-- 🤗 Ask me about anything  
-  
-
-- ⚡ This github is about my journey as a programmer. 
+- 🚀 currently work at **Bankware Global** LINE BANK Japan project Loan Part (2021.10 ~ )
+- 
+- 🤗 Ask me about anything 
   
 
 <br/>  
@@ -31,6 +29,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50">
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,6 +43,8 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50">
 </div>
 
 </td><td valign="top" width="33%">
@@ -59,9 +61,4 @@
 
 </td></tr></table>  
 
-<br/>  
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=duyankim&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
+ 
