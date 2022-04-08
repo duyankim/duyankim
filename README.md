@@ -6,10 +6,10 @@
 ### <div align="center">I'm Duyan, a Java developer 🤸‍♀ </div>  
   
 
-- 🌱 Core Banking System Developer
+- 🌱 interested in Core Banking System
 
 - 🚀 currently work at **Bankware Global** 
-  - LINE BANK Japan project - Loan Part (2021.10 ~ )
+  - LINE BANK Japan project - Loan Department (2021.10 ~ )
 
 - 🤗 Ask me about anything 
   
