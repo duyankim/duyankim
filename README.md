@@ -37,7 +37,7 @@
 
 
 
-### DevOps  
+### Tools 
 <div align="center">  
   <img src="https://img.shields.io/badge/-Git-pink?style=flat-square&logo=git&logoColor=white"/>
 </div>
