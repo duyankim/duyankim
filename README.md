@@ -1,17 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
-</div>  
-  
-
-### <div align="center">I'm Duyan, a Java developer 🤸‍♀ </div>  
-  
-
-- 🌱 interested in Core Banking System
-
+## Hi there! 👋
+- I'm backend developer using Java and Spring 🌱
+- interested in Core Banking System
 - 🚀 currently work at **Bankware Global** 
-  - LINE BANK Japan project - Loan Department (2021.10 ~ )
-
-- 🤗 Ask me about anything 
+  - LINE BANK Japan project - Loan Department since 10.2020
   
 
 <br/>  
@@ -22,30 +13,24 @@
 
 
 
-### Frontend  
+### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50">
+  <img src="https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-green?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.JS-lightgrey?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend  
+### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -54,10 +39,7 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+  <img src="https://img.shields.io/badge/-Git-pink?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
 </td></tr></table>  
