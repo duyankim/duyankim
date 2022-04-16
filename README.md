@@ -30,4 +30,4 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io&layout=compact&langs_count=6)
