@@ -28,4 +28,4 @@
 </p>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io,CRUD_board&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
