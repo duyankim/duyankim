@@ -2,12 +2,9 @@
 - I'm backend developer using Java and Spring 🌱
 - interested in Core Banking System
 - 🚀 currently work at **Bankware Global** 
-  - LINE BANK Japan project: Loan Department since 10.2021
-  
-<br/>  
+  - LINE BANK Japan project: Loan Department since 10.2021 
 
 ## My Skill Set  
-
 <p>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
@@ -30,4 +27,5 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io&layout=compact&langs_count=6)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
