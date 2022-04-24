@@ -1,8 +1,8 @@
 ## Hi there! 👋
 - I'm backend developer using Java and Spring 🌱
 - interested in Core Banking System
-- 🚀 currently work at **Bankware Global** 
-  - LINE BANK Japan project: Loan Department since 10.2021 
+- 🚀 currently 
+  - **LINE BANK JP project**: Loan Department (since 10.2021) 
 
 ## My Skill Set  
 <p>
