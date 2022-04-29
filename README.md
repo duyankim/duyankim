@@ -1,10 +1,10 @@
 ## Hi there! 👋
 - I'm backend developer using Java and Spring 🌱
-- interested in Core Banking System
+- interested in Core Banking System and TechFin
 - 🚀 currently in **LINE BANK JP project**: Loan Department (since 10.2021)
   - 계정계 (Staff UI) 개발(Spring), 화면 개발(Angular.js)
   - Regression Test, 이자계산 테스트 수행 (Node.js)
-- enjoy traveling new places, learning foreign languages
+- I enjoy traveling new places, learning foreign languages
 
 ## My Skill Set  
 <p>
