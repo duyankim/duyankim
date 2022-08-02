@@ -1,11 +1,11 @@
 ## Hi there! 👋
-- I'm backend developer using Java and Spring 🌱
+- I'm backend developer using Java and Spring 🌱 @duyankim
 - interested in Core Banking System
 - 🚀 currently in **LINE BANK JP project**: Loan Department (since 10.2021)
-  - 여신 사후 파트 `Java` 개발, Staff UI `Angular.js` 화면 개발 
-    - 행원 상환, 상환 유예, 연체 회수, 연체 통지 등
+  - 여신 사후 파트 `Java` 개발, Staff UI `Angular.js` 화면 개발 (행원 상환, 상환 유예, 연체 회수, 연체 통지 등)
   - Regression Test, 이자계산 테스트 수행 `Node.js`
   - `Mockito` 테스트 코드 작성
+  - `Spring Batch` 개발
 - I enjoy traveling new places, learning foreign languages 🌏
 
 ## My Skill Set  
