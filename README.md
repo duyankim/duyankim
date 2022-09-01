@@ -2,8 +2,8 @@
 - I'm backend developer using Java and Spring 🌱
 - interested in Core Banking System
 - 🚀 currently in **LINE BANK JP project**: Loan Department (since 10.2021)
-  - 여신 사후 파트 `Java` 개발 (행원 상환, 상환 유예, 약정상환 캐치업, 연체 회수, 연체 통지 등)
-    - 배치 서비스 개발 `Spring Batch` 
+  - 여신 사후 파트 `Java` 개발 (거래제한 등록, 행원 상환, 상환 유예, 약정상환 캐치업, 연체 회수 등)
+    - 배치 서비스 개발 `Spring Batch` (연체 통지)
   - Staff UI `Angular.js` 화면 개발
   - Regression Test, 이자계산 테스트 수행 `Node.js`
   - `Mockito` 테스트 코드 작성
