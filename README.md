@@ -1,12 +1,11 @@
 ## Hi there! 👋
-- I'm backend developer using Java and Spring 🌱
-- interested in Core Banking System
+- I'm core banking developer 🌱
 - 🚀 currently in **LINE BANK JP project**: Loan Department (since 10.2021)
-  - 여신 사후 파트 `Java` 개발 (거래제한 등록, 행원 상환, 상환 유예, 약정상환 캐치업, 연체 회수 등)
-  - 배치 서비스 개발 `Spring Batch` (연체 통지)
+  - 여신 상환, 연체 파트 `Java` 개발
+  - `Spring Batch` 개발
   - Staff UI `Angular.js` 화면 개발
-  - Regression Test, 이자계산 테스트 수행 `Node.js`
-  - `Mockito` 테스트 코드 작성
+  - `Node.js` Regression Test, 이자계산 테스트 수행 
+  - `Mockito`, `Junit` 기반 테스트
 
 - I enjoy traveling new places, learning foreign languages 🌏
 
@@ -32,5 +31,3 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyankim&exclude_repo=duyankim.github.io,CRUD_board&layout=compact&langs_count=6&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
