@@ -1,6 +1,6 @@
 ## Hi there! 👋
 - I'm core banking developer 🌱
-- 🚀 currently in **LINE BANK JP project**: Loan Department (since 10.2021)
+- 🚀 currently in **LINE BANK JP project**: Loan Department (10.2021 ~ 03.2023)
   - 여신 상환, 연체 파트 `Java` 개발
   - `Spring Batch` 개발
   - Staff UI `Angular.js` 화면 개발
