@@ -1,5 +1,5 @@
 ## Hi there! 👋
-- I'm core banking developer 🌱
+- Junior Backend Developer 🌱
 - 🚀 currently in **HANA CAPITAL DT rebuild project** (07.2023 ~ )
 - **LINE BANK JP project**: Loan Department (10.2021 ~ 04.2023)
   - 대출 상환, 연체 코어뱅킹 시스템 `Java` 개발, `Spring Batch` 개발
