@@ -1,8 +1,8 @@
 ## Hi there! 👋
 - I'm core banking developer 🌱
-- 🚀 currently in **LINE BANK JP project**: Loan Department (10.2021 ~ 03.2023)
-  - 여신 상환, 연체 파트 `Java` 개발
-  - `Spring Batch` 개발
+- 🚀 currently in **HANA CAPITAL DT rebuild project** (07.2023 ~ )
+- **LINE BANK JP project**: Loan Department (10.2021 ~ 04.2023)
+  - 대출 상환, 연체 코어뱅킹 시스템 `Java` 개발, `Spring Batch` 개발
   - Staff UI `Angular.js` 화면 개발
   - `Node.js` Regression Test, 이자계산 테스트 수행 
   - `Mockito`, `Junit` 기반 테스트
