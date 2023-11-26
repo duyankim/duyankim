@@ -3,7 +3,7 @@
 - **HANA CAPITAL DT rebuild project** : Loan Department (07.2023 ~ 11.2023)
   - 중도금 대출 코어뱅킹 시스템, 부동산 담보 관리 `Java` 개발
   - `Javascript` 화면 개발
-- **LINE BANK JP project**: Loan Department (10.2021 ~ 04.2023)
+- **LINE BANK JAPAN project**: Loan Department (10.2021 ~ 04.2023)
   - 대출 상환, 연체 코어뱅킹 시스템 `Java` 개발, `Spring Batch` 개발
   - Staff UI `Angular.js` 화면 개발
   - `Node.js` Regression Test, 이자계산 테스트 수행 
